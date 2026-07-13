@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌱 Estudando Backend Java com Spring Boot<br>📫 Contate-me no email: weslleycouto.dev@gmail.com</p>
+<p align="left">🌱 Desenvolvedor Backend C# <br>📫 Contate-me no email: weslleycouto.dev@gmail.com</p>
 
 ###
 
@@ -11,7 +11,7 @@
 ###
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,firebase,py,django,git,github,linux,&theme=dark"
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mysql,git,github,linux,&theme=dark"
   </a>
     
 ###
