@@ -7,7 +7,7 @@
 
 Sou estudante de **Ciência da Computação** e desenvolvedor com foco em **desenvolvimento backend**.  
 
-  <a href="https://www.linkedin.com/in/plinio-de-arruda-oliveira-9a5699213/" target="_blank">
+  <a href="https://www.linkedin.com/in/weslley-couto" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 
