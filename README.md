@@ -25,7 +25,7 @@ Sou estudante de **Ciência da Computação** e desenvolvedor com foco em **dese
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="Bancos de dados"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,linux&theme=dark" alt="Ferramentas de desenvolvimento"/>
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,postman,linux&theme=dark" alt="Ferramentas de desenvolvimento"/>
 
 </div>
 
